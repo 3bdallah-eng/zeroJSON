@@ -1,0 +1,37 @@
+[
+    {
+        "Article name" : "Don between jungles"
+        ,"author": "Abdallah"
+        ,"ID": 567435 
+        ,"Department": "adventure"
+        ,"content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis eaque odio quae omnis perspiciatis animi labore temporibus, possimus tempora ab error aperiam, numquam et nam natus consequatur, adipisci assumenda dignissimos! Error est, voluptate ullam labore hic, culpa neque ad explicabo optio recusandae ipsum aut non, deserunt eius commodi sint voluptates voluptatem itaque repellendus quas architecto pariatur aliquam dolorem. Odio, unde!"
+    },
+    {
+        "Article name" : "Under CTRL"
+        ,"author": "Mo7ammed"
+        ,"ID": 465337 
+        ,"Department": "crime"
+        ,"content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis eaque odio quae omnis perspiciatis animi labore temporibus, possimus tempora ab error aperiam, numquam et nam natus consequatur, adipisci assumenda dignissimos! Error est, voluptate ullam labore hic, culpa neque ad explicabo optio recusandae ipsum aut non, deserunt eius commodi sint voluptates voluptatem itaque repellendus quas architecto pariatur aliquam dolorem. Odio, unde!"
+    },
+    {
+        "Article name" : "Calculator"
+        ,"author": "Yousef"
+        ,"ID": 786847 
+        ,"Department": "business"
+        ,"content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis eaque odio quae omnis perspiciatis animi labore temporibus, possimus tempora ab error aperiam, numquam et nam natus consequatur, adipisci assumenda dignissimos! Error est, voluptate ullam labore hic, culpa neque ad explicabo optio recusandae ipsum aut non, deserunt eius commodi sint voluptates voluptatem itaque repellendus quas architecto pariatur aliquam dolorem. Odio, unde!"
+    },
+    {
+    "Article name" : "Einsten EG"
+    ,"author": "Mo7ammed"
+    ,"ID": 458532 
+    ,"Department": "Education"
+    ,"content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis eaque odio quae omnis perspiciatis animi labore temporibus, possimus tempora ab error aperiam, numquam et nam natus consequatur, adipisci assumenda dignissimos! Error est, voluptate ullam labore hic, culpa neque ad explicabo optio recusandae ipsum aut non, deserunt eius commodi sint voluptates voluptatem itaque repellendus quas architecto pariatur aliquam dolorem. Odio, unde!"
+    },
+    {
+        "Article name" : "Honaldda"
+        ,"author": "Hegazy"
+        ,"ID": 421111 
+        ,"Department": "Security"
+        ,"content": "Lorem ipsum dolor, sit amet consectetur adipisicing elit. Corporis eaque odio quae omnis perspiciatis animi labore temporibus, possimus tempora ab error aperiam, numquam et nam natus consequatur, adipisci assumenda dignissimos! Error est, voluptate ullam labore hic, culpa neque ad explicabo optio recusandae ipsum aut non, deserunt eius commodi sint voluptates voluptatem itaque repellendus quas architecto pariatur aliquam dolorem. Odio, unde!"
+    }
+]
